@@ -1,4 +1,4 @@
-<img src="media/azure-pipelines-succeeded.png?view=azure-devops" alt="Status badge shows Azure pipeline succeeded" data-linktype="relative-path">
+<img src="https://docs.microsoft.com/en-us/azure/devops/pipelines/media/azure-pipelines-succeeded.png?view=azure-devops" alt="Status badge shows Azure pipeline succeeded" data-linktype="relative-path">
 
 # Sample ASP.NET Core application for Azure Pipelines docs
 
